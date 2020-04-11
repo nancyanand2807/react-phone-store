@@ -31,7 +31,7 @@ export const storeProducts = [
     price: 56690,
     company: "htc",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "HTC 10. It’s more of what you’re looking for in a flagship phone. Unparalleled performance. Superb 24-bit Hi-Res sound. The world’s first* Optical Image Stabilization in both front and back cameras. And one of the highest smartphone camera rankings ever from DxOMark. All in a beautifully crafted metal unibody.",
     inCart: false,
     count: 0,
     total: 0
@@ -43,7 +43,7 @@ export const storeProducts = [
     price: 18490,
     company: "htc",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "HTC 10. It’s more of what you’re looking for in a flagship phone. Unparalleled performance. Superb 24-bit Hi-Res sound. The world’s first* Optical Image Stabilization in both front and back cameras. And one of the highest smartphone camera rankings ever from DxOMark. All in a beautifully crafted metal unibody.",
     inCart: false,
     count: 0,
     total: 0
@@ -55,7 +55,7 @@ export const storeProducts = [
     price: 21695,
     company: "htc",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The phone comes with a 5.00-inch touchscreen display with a resolution of 720x1280 pixels. HTC Desire 626s is powered by a 1.1GHz quad-core Qualcomm Snapdragon 210 processor. It comes with 1GB of RAM. The HTC Desire 626s runs Android 5.1 and is powered by a 2000mAh removable battery.",
     inCart: false,
     count: 0,
     total: 0
@@ -67,7 +67,7 @@ export const storeProducts = [
     price: 27999,
     company: "apple",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The iPhone 6 and iPhone 6 Plus are smartphones designed and marketed by Apple Inc. ... The iPhone 6 and 6 Plus include larger 4.7 and 5.5 inches (120 and 140 mm) displays, a faster processor, upgraded cameras, improved LTE and Wi-Fi connectivity and support for a near field communications-based mobile payments offering.",
     inCart: false,
     count: 0,
     total: 0
@@ -79,7 +79,7 @@ export const storeProducts = [
     price: 40000,
     company: "apple",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The phone comes with a 4.70-inch touchscreen display with a resolution of 750x1334 pixels at a pixel density of 326 pixels per inch (ppi) and an aspect ratio of 16:9. Apple iPhone 7 is powered by a 2.34GHz quad-core Apple A10 Fusion processor. It comes with 2GB of RAM.",
     inCart: false,
     count: 0,
     total: 0
@@ -91,7 +91,7 @@ export const storeProducts = [
     price: 5000,
     company: "apple",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The iPhone 8 features a 4.7-inch display with a resolution of 1334 by 750 with 326 pixels per inch and a 1400:1 contrast ratio, while the iPhone 8 Plus features a 5.5-inch display with a 1920 by 1080 resolution, 401 pixels per inch, and a 1300:1 contrast ratio.",
     inCart: false,
     count: 0,
     total: 0
